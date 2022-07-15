@@ -5,3 +5,7 @@ a {
 .wrapper {
     background-color: aquamarine;
 }
+
+li {
+    text-decoration: underline solid red;
+}
